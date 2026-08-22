@@ -1,51 +1,41 @@
-# Kuldeep Singh
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kuldeep-singh-pro&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/kuldeep-singh-pro?tab=followers"><img src="https://img.shields.io/github/followers/kuldeep-singh-pro?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" /></a>
+</p>
+
+# Hi, I'm Kuldeep Singh
 
 ## Full-Stack Developer
 
-I build reliable web applications and backend systems with a focus on clear architecture, useful interfaces, and maintainable code. I work across the full product lifecycle, from translating requirements into responsive frontend experiences to designing APIs, authentication flows, database models, and production-ready services.
+I build reliable product experiences from the interface to the API and database. I enjoy turning unclear requirements into focused, maintainable features and solving the details that make software dependable in real-world use.
+
+My work spans modern frontend applications, backend services, authentication flows, database-driven features, admin dashboards, and AI-assisted products. I care about clean architecture, reusable code, and interfaces that stay simple for the people using them.
+
+### Core strengths
 
 - Full-stack development with the MERN stack and TypeScript
-- Modern frontend applications using React.js and Next.js
-- Backend services and REST APIs using Node.js, Express.js, and NestJS
-- Secure workflows using JWT, OTP verification, role-based access, and validation
-- AI-powered features using LangChain and Google Gemini
+- Responsive interfaces with React.js and Next.js
+- REST APIs and backend services with Node.js, Express.js, and NestJS
+- Secure workflows with JWT, OTP verification, role-based access, and validation
+- AI integrations using LangChain and Google Gemini
 
 ---
 
-## Technical Stack
+## Language and Tools
 
-### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,mysql,html,css,tailwind,materialui,git,github,postman,linux&perline=9" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, MongoDB, MySQL, HTML, CSS, Tailwind CSS, Material UI, Git, GitHub, Postman, Linux" />
+</p>
 
-React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · shadcn/ui · React Router · TanStack Query · Zustand
-
-### Backend
-
-Node.js · Express.js · NestJS · REST API Development · JWT · Zod · Mongoose · Firebase
-
-### Databases
-
-MongoDB · MySQL · SQL
-
-### AI and Tools
-
-LangChain · Google Gemini API · Git · GitHub · Postman · Netlify · Render · Linux · AWS · Terraform
-
----
-
-## Engineering Focus
-
-- Designing modular frontend and backend architecture
-- Building reusable components and service layers
-- Creating secure, well-validated APIs
-- Improving database queries and application performance
-- Developing practical AI-assisted product features
-- Writing clear code that is easy to maintain and extend
+Additional experience: Firebase, JWT, Zod, LangChain, Google Gemini API, Netlify, Render, AWS, and Terraform.
 
 ---
 
 ## Connect
 
-- [GitHub](https://github.com/kuldeep-singh-pro)
-- [LinkedIn](https://www.linkedin.com/in/kuldeep-singh-506b27381/)
-- [LeetCode](https://leetcode.com/u/kuldeep-singh-pro/)
-- [Email](mailto:kuldeepsinghwebdev@gmail.com)
+<p align="left">
+  <a href="https://github.com/kuldeep-singh-pro" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kuldeep-singh-506b27381/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/kuldeep-singh-pro/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="mailto:kuldeepsinghwebdev@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36" /></a>
+</p>
