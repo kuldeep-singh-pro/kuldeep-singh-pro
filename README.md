@@ -21,6 +21,16 @@ My work spans modern frontend applications, backend services, authentication flo
 
 ---
 
+## Professional Highlights
+
+- Built and extended REST APIs across multiple real-world web products and production codebases.
+- Worked across frontend applications, backend services, admin dashboards, and shared platform workflows.
+- Implemented features involving authentication, bookings, users, orders, partners, vehicles, notifications, location data, rewards, and content management.
+- Developed reusable components, modular service layers, validated data flows, and maintainable application architecture.
+- Contributed to AI-assisted product features, including structured resume analysis and skill-gap insights.
+
+---
+
 ## Language and Tools
 
 <p align="left">
