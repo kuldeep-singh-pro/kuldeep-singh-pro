@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kuldeep-singh-pro&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/kuldeep-singh-pro?tab=followers"><img src="https://img.shields.io/github/followers/kuldeep-singh-pro?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" /></a>
+  <a href="https://github.com/kuldeep-singh-pro?tab=repositories"><img src="https://img.shields.io/badge/View%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://www.linkedin.com/in/kuldeep-singh-506b27381/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:kuldeepsinghwebdev@gmail.com"><img src="https://img.shields.io/badge/Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </p>
 
 # Hi, I'm Kuldeep Singh
