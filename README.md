@@ -41,7 +41,7 @@ Node.js, Express.js, NestJS, REST APIs, JWT, Zod, MongoDB, Mongoose, MySQL, Fire
 LangChain, Google Gemini API, Git, GitHub, Postman, Netlify, Render, Linux, AWS, Terraform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,mysql,prisma,tailwind,materialui,git,github,postman" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, MongoDB, MySQL, Prisma, Tailwind CSS, Material UI, Git, GitHub, Postman" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,mysql,tailwind,materialui,git,github,postman" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, MongoDB, MySQL, Tailwind CSS, Material UI, Git, GitHub, Postman" />
 </p>
 
 ## Selected work
