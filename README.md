@@ -1,54 +1,51 @@
-# Hey 👋 I'm Kuldeep Singh
+# Kuldeep Singh
 
-### Full-Stack Developer | MERN · NestJS · Next.js · TypeScript
+## Full-Stack Developer
 
-I turn product ideas into dependable full-stack experiences—from thoughtful React and Next.js interfaces to secure Node.js APIs and data-driven workflows. I enjoy taking a feature from idea to production, understanding the edge cases, and making the final product feel simple for the people using it.
+I build reliable web applications and backend systems with a focus on clear architecture, useful interfaces, and maintainable code. I work across the full product lifecycle, from translating requirements into responsive frontend experiences to designing APIs, authentication flows, database models, and production-ready services.
 
-## About me
+- Full-stack development with the MERN stack and TypeScript
+- Modern frontend applications using React.js and Next.js
+- Backend services and REST APIs using Node.js, Express.js, and NestJS
+- Secure workflows using JWT, OTP verification, role-based access, and validation
+- AI-powered features using LangChain and Google Gemini
 
-- 💻 Experienced with the MERN stack and modern TypeScript applications.
-- 🧩 Comfortable moving between product requirements, UI details, API design, and database logic.
-- 🚀 Building responsive frontend experiences with React and Next.js.
-- 🛠️ Developing REST APIs and backend services with Node.js, Express, and NestJS.
-- 🗄️ Working with MongoDB, MySQL, Mongoose, and Firebase.
-- 🤖 Exploring AI-powered applications with LangChain and Google Gemini.
+---
 
-## Connect with me
-
-<p>
-  <a href="https://github.com/kuldeep-singh-pro"><img src="https://img.shields.io/badge/GitHub-kuldeep--singh--pro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kuldeep-singh-506b27381/"><img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/kuldeep-singh-pro/"><img src="https://img.shields.io/badge/LeetCode-kuldeep--singh--pro-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:kuldeepsinghwebdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-## Technologies
-
-### Languages
-
-JavaScript, TypeScript, SQL, HTML, CSS
+## Technical Stack
 
 ### Frontend
 
-React.js, Next.js, Tailwind CSS, Material UI, shadcn/ui, React Router, TanStack Query, Zustand
+React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · Material UI · shadcn/ui · React Router · TanStack Query · Zustand
 
-### Backend and databases
+### Backend
 
-Node.js, Express.js, NestJS, REST APIs, JWT, Zod, MongoDB, Mongoose, MySQL, Firebase
+Node.js · Express.js · NestJS · REST API Development · JWT · Zod · Mongoose · Firebase
 
-### AI and tools
+### Databases
 
-LangChain, Google Gemini API, Git, GitHub, Postman, Netlify, Render, Linux, AWS, Terraform
+MongoDB · MySQL · SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,mysql,tailwind,materialui,git,github,postman" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, MongoDB, MySQL, Tailwind CSS, Material UI, Git, GitHub, Postman" />
-</p>
+### AI and Tools
 
-## Currently learning and improving
+LangChain · Google Gemini API · Git · GitHub · Postman · Netlify · Render · Linux · AWS · Terraform
 
-- Scalable backend architecture and system design
-- Database design and API performance
-- AI-assisted product development
-- Clean code, testing, and developer experience
+---
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## Engineering Focus
+
+- Designing modular frontend and backend architecture
+- Building reusable components and service layers
+- Creating secure, well-validated APIs
+- Improving database queries and application performance
+- Developing practical AI-assisted product features
+- Writing clear code that is easy to maintain and extend
+
+---
+
+## Connect
+
+- [GitHub](https://github.com/kuldeep-singh-pro)
+- [LinkedIn](https://www.linkedin.com/in/kuldeep-singh-506b27381/)
+- [LeetCode](https://leetcode.com/u/kuldeep-singh-pro/)
+- [Email](mailto:kuldeepsinghwebdev@gmail.com)
