@@ -44,14 +44,6 @@ LangChain, Google Gemini API, Git, GitHub, Postman, Netlify, Render, Linux, AWS,
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,nestjs,mongodb,mysql,tailwind,materialui,git,github,postman" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, NestJS, MongoDB, MySQL, Tailwind CSS, Material UI, Git, GitHub, Postman" />
 </p>
 
-## Selected work
-
-- [Community platform](https://github.com/kuldeep-singh-pro/CommunityEventFinder) — authentication, events, RSVP workflows, validation, and MongoDB APIs.
-- [AI resume platform](https://github.com/kuldeep-singh-pro/ai-career-consultant) — resume analysis with LangChain, Gemini, Node.js, Express, and MongoDB.
-- [Booking platform](https://github.com/WebSenor-llc/jawai-safari-monorepo) — Next.js, React, NestJS, admin workflows, and content management.
-- [Operations platform](https://github.com/WebSenor-llc/logix-admin-backend) — React, TypeScript, Express, MongoDB, admin dashboards, and business workflows.
-- [Social platform](https://github.com/ai-websenor/aaditya-social-media) — web, mobile, admin, notifications, feeds, profiles, and backend services.
-
 ## Currently learning and improving
 
 - Scalable backend architecture and system design
