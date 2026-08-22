@@ -2,16 +2,16 @@
 
 ### Full-Stack Developer | MERN · NestJS · Next.js · TypeScript
 
-I’m a full-stack developer who enjoys building clean, reliable, and user-focused web applications. I work across frontend interfaces, backend APIs, databases, authentication, and scalable application architecture.
+I turn product ideas into dependable full-stack experiences—from thoughtful React and Next.js interfaces to secure Node.js APIs and data-driven workflows. I enjoy taking a feature from idea to production, understanding the edge cases, and making the final product feel simple for the people using it.
 
 ## About me
 
 - 💻 Experienced with the MERN stack and modern TypeScript applications.
+- 🧩 Comfortable moving between product requirements, UI details, API design, and database logic.
 - 🚀 Building responsive frontend experiences with React and Next.js.
 - 🛠️ Developing REST APIs and backend services with Node.js, Express, and NestJS.
-- 🗄️ Working with MongoDB, MySQL, Mongoose, Prisma, and Firebase.
+- 🗄️ Working with MongoDB, MySQL, Mongoose, and Firebase.
 - 🤖 Exploring AI-powered applications with LangChain and Google Gemini.
-- 📍 Based in Udaipur, Rajasthan.
 
 ## Connect with me
 
@@ -34,7 +34,7 @@ React.js, Next.js, Tailwind CSS, Material UI, shadcn/ui, React Router, TanStack 
 
 ### Backend and databases
 
-Node.js, Express.js, NestJS, REST APIs, JWT, Zod, MongoDB, Mongoose, MySQL, Prisma, Firebase, Socket.IO
+Node.js, Express.js, NestJS, REST APIs, JWT, Zod, MongoDB, Mongoose, MySQL, Firebase
 
 ### AI and tools
 
@@ -48,7 +48,7 @@ LangChain, Google Gemini API, Git, GitHub, Postman, Netlify, Render, Linux, AWS,
 
 - [Community platform](https://github.com/kuldeep-singh-pro/CommunityEventFinder) — authentication, events, RSVP workflows, validation, and MongoDB APIs.
 - [AI resume platform](https://github.com/kuldeep-singh-pro/ai-career-consultant) — resume analysis with LangChain, Gemini, Node.js, Express, and MongoDB.
-- [Booking platform](https://github.com/WebSenor-llc/jawai-safari-monorepo) — Next.js, React, NestJS, Prisma, admin workflows, and content management.
+- [Booking platform](https://github.com/WebSenor-llc/jawai-safari-monorepo) — Next.js, React, NestJS, admin workflows, and content management.
 - [Operations platform](https://github.com/WebSenor-llc/logix-admin-backend) — React, TypeScript, Express, MongoDB, admin dashboards, and business workflows.
 - [Social platform](https://github.com/ai-websenor/aaditya-social-media) — web, mobile, admin, notifications, feeds, profiles, and backend services.
 
