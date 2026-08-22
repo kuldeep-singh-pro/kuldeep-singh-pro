@@ -35,7 +35,7 @@ Additional experience: Firebase, JWT, Zod, LangChain, Google Gemini API, Netlify
 
 <p align="left">
   <a href="https://github.com/kuldeep-singh-pro" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="36" height="36" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kuldeep-singh-506b27381/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kuldeep-singh-506b27381/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/kuldeep-singh-pro/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="36" height="36" /></a>&nbsp;&nbsp;
   <a href="mailto:kuldeepsinghwebdev@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36" /></a>
 </p>
